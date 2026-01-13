@@ -1,12 +1,4 @@
----
-title: "Estimating measles reintroduction risk in São Paulo using machine learning"
-output: html_document
-date: "2026-01-13"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Estimating measles reintroduction risk in São Paulo using machine learning
 
 Authors: xxx
 
