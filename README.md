@@ -1,6 +1,6 @@
 # Estimating measles reintroduction risk in São Paulo using machine learning
 
-Authors: xxx
+Authors: Denise Cammarota, MSc, Danilo Pereira Mori, MSc, Flávia Cristina da Silva Sales, PhD, Isabela Galvão Fernandes Alves, MSc, Alícia Tavares da Silva Gomes, PhD, Frederico Prado, PhD, Ramon Wilk da Silva, PhD, Raquel Gardini Sanches Palasio, PhD, Pamella Cristina de Carvalho Lucas, PhD, Telma Regina Marques Pinto Carvalhanas, MSc, Ana Lúcia Frugis Yu, PhD. 
 
 # Folder structure and scripts
 
@@ -21,4 +21,3 @@ Authors: xxx
 *    └── 05_calculate_shap_values.py: calculates beeswarm SHAP plot (Figure 2).
 *    └── 06_compare_risk_maps.py: compares continuous risks and categories of high/low risk (S5).
 ```
-
